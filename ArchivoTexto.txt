@@ -3,7 +3,7 @@
 Escrito por Christian Figueroa,
 para el curso de GIT.
 
-GIT es una herramienta de gran utilidad para el desarrollo de software
+GIT es una herramienta de gran utilidad para el desarrollo de software y de páginas web
 
 Ingeniero Electrónico 
 7 de noviembre de 2022
