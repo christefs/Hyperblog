@@ -1,5 +1,7 @@
 Archivo de texto para prueba de GIT
 
-Escrito por Christian Figueroa
+Escrito por Christian Figueroa,
+para el curso de GIT.
+
 Ingeniero Electrónico 
 7 de noviembre de 2022
