@@ -1,0 +1,5 @@
+Archivo de texto para prueba de GIT
+
+Escrito por Christian Figueroa
+Ingeniero Electrónico 
+7 de noviembre de 2022
