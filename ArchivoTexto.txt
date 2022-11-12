@@ -3,4 +3,6 @@ Archivo de texto para prueba de GIT
 Escrito por Christian Figueroa
 Ingeniero Electrónico 
 
+Master 1
+
 Nuevas modificaciones realizadas a partir del 8 de noviembre del 2022
