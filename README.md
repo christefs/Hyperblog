@@ -8,5 +8,6 @@ Un blog increíble para el curso de GIT/GITHUB de Platzi
 - Crear conciencia de las buenas prácticas
 - Trucos y demás
 - Creado por el increible Platzi Team
+- Incluye ejemplos en Windows, Linux y MAC
 
 Esto es solo una redacción de prueba pero puedes visitar el curso https://platzi.com/cursos/git-github/
