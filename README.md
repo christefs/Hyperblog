@@ -7,5 +7,6 @@ Un blog increíble para el curso de GIT/GITHUB de Platzi
 - El flujo de trabajo en Github
 - Crear conciencia de las buenas prácticas
 - Trucos y demás
+- Creado por el increible Platzi Team
 
 Esto es solo una redacción de prueba pero puedes visitar el curso https://platzi.com/cursos/git-github/
